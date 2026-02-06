@@ -63,6 +63,9 @@ Derivative low-pass filtering (τ parameter)
 
 Complementary Filter as a backup orientation estimator.
 
+Demonstration:-
+https://drive.google.com/drive/folders/1Nr3FfI15PP4-sbhMdGo8hZtSt1pCJ5GY?usp=sharing
+
 🧩 Hardware Used
 
 Arduino-compatible microcontroller
